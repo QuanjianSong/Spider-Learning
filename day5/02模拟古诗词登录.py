@@ -34,7 +34,7 @@ if __name__ == '__main__':
             '__VIEWSTATEGENERATOR': 'C93BE1AE',
             'from': 'http://so.gushiwen.cn/user/collect.aspx',
             'email': '862553420@qq.com',
-            'pwd': '100867292a',
+            'pwd': '',
             'code': reuslt_json['pic_str'],
             'denglu': '登录'
         }
